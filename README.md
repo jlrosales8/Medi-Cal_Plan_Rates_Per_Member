@@ -108,5 +108,11 @@ Once we remove the fields where COHS is the only data provided we can see the se
 
 On average the Regional Rural Expansion model and the Two Plan Model produce the lowest rates paid out to the health plan. 
 
+When viewing the Category of Aid across all the counties we can see that that not all the counties report the Capitation Rates that are provided to the health plans. This can be seen on how some counties are missing complete rates for those counties. This can be attributed to those counties not producing members with that Category of Aid or if the state is not providing that information.  
 
+![GitHub Logo](https://user-images.githubusercontent.com/66391137/85070605-f1d2df80-b16a-11ea-817c-1d825ccd38e0.png)
+
+Lastly, one thing to note is when comparing the counties to the Category of Aid, the counties that provide information for the LTC population will usually not supply information for the Maternity population and vice versa. 
+
+![GitHub Logo](https://user-images.githubusercontent.com/66391137/85070576-e67fb400-b16a-11ea-97b2-ed259eb890c5.png)
 
